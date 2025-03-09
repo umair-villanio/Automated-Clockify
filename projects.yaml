@@ -1,0 +1,13 @@
+projects:
+  - name: project1
+    id: project clockify id
+  - name: project2
+    id: project clockify id
+
+
+
+
+
+
+leave_projects:
+  - project clockify id # Leave
